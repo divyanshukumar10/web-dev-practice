@@ -1,0 +1,20 @@
+body
+    {
+        background-color: #FAF9F0;
+    }
+    hr
+    {
+        border-top: 1px dashed #121435;
+        border-width: 5px;
+        height: 0px;
+    }
+    h1
+    {
+        color: #121435;
+    }
+
+div
+{
+    background-color: #FFDEDE;
+}
+
